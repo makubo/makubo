@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! My name is Max. 👋
+
+I am an **Infrastructure/SRE/DevOps** engineer from Japan.<br>
+In addition to my Infra expertise, I have about 3 years of experience as a **Java** backend Developer.
 
 <!--
 **makubo/makubo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
